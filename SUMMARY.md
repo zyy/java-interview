@@ -57,4 +57,5 @@
   * [🐞 熔断](gao-ke-yong/rong-duan.md)
   * [🐜 超时&重试](gao-ke-yong/chao-shi-zhong-shi.md)
   * [🪰 监控告警](gao-ke-yong/jian-kong-gao-jing.md)
+  * [🦟 MQ如何保证不丢消息](gao-ke-yong/mq-ru-he-bao-zheng-bu-diu-xiao-xi.md)
 * [🇦🇫 优质博客](you-zhi-bo-ke.md)
