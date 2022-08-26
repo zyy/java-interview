@@ -14,7 +14,7 @@
   * [🐮 算法](ji-suan-ji-ji-chu/suan-fa.md)
 * [🇩🇿 数据库](shu-ju-ku/README.md)
   * [🐷 基础](shu-ju-ku/ji-chu.md)
-  * [🐽 MySQL](shu-ju-ku/mysql/README.md)
+  * [🐽 MySQL](shu-ju-ku/mysql.md)
     * [MySQL事务的隔离级别](shu-ju-ku/mysql/mysql-shi-wu-de-ge-li-ji-bie.md)
   * [🐸 Redis](shu-ju-ku/redis.md)
   * [🐵 MongoDB](shu-ju-ku/mongodb.md)
