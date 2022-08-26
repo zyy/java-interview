@@ -18,6 +18,7 @@
     * [MySQL-事务的隔离级别](shu-ju-ku/mysql/mysql-shi-wu-de-ge-li-ji-bie.md)
     * [MySQL-索引(B+树)](shu-ju-ku/mysql/mysql-suo-yin-b+-shu.md)
     * [MySQL-MVCC机制](shu-ju-ku/mysql/mysqlmvcc-ji-zhi.md)
+    * [MySQL-间隙锁](shu-ju-ku/mysql/mysql-jian-xi-suo.md)
   * [🐸 Redis](shu-ju-ku/redis.md)
   * [🐵 MongoDB](shu-ju-ku/mongodb.md)
 * [🇦🇸 开发工具](kai-fa-gong-ju/README.md)
