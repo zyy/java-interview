@@ -8,7 +8,7 @@
     * [线程状态与流转关系](java/bing-fa/xian-cheng-zhuang-tai-yu-liu-zhuan-guan-xi.md)
   * [🐰 JVM](java/jvm.md)
     * [JVM面试题](java/jvm/jvm-mian-shi-ti.md)
-    * [JVM内存接口](java/jvm/jvm-nei-cun-jie-kou.md)
+    * [JVM内存结构](java/jvm/jvm-nei-cun-jie-gou.md)
     * [GC-CMS、G1、ZGC](java/jvm/gc-cms-g1-zgc.md)
 * [🇦🇱 计算机基础](ji-suan-ji-ji-chu/README.md)
   * [🐨 网络](ji-suan-ji-ji-chu/wang-luo.md)
