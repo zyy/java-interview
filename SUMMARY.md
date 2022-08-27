@@ -51,6 +51,7 @@
   * [🦇 RPC](fen-bu-shi/rpc.md)
   * [🐺 分布式事务](fen-bu-shi/fen-bu-shi-shi-wu.md)
   * [🐗 分布式ID](fen-bu-shi/fen-bu-shi-id.md)
+  * [🌵 CAP & BASE理论](fen-bu-shi/cap-base-li-lun.md)
 * [🇦🇬 高性能](gao-xing-neng/README.md)
   * [🐴 读写分离](gao-xing-neng/du-xie-fen-li.md)
   * [🦄 分库分表](gao-xing-neng/fen-ku-fen-biao.md)
