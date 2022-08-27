@@ -15,4 +15,4 @@
 
 多线程时，需要调用这个对象的 Synchronized 方法或 Synchronized 块必须获得该对象锁，此时没有获取到锁的线程就进入锁池；而获取到锁的线程如果调用了 wait() 方法线程就会进入等待池，进入等待池的线程不会竞争该对象的锁。
 
-<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.drawing (2).svg" alt="" class="gitbook-drawing">
