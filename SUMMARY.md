@@ -6,7 +6,7 @@
     * [传递or引用传递](java/ji-chu/chuan-di-or-yin-yong-chuan-di.md)
   * [集合](java/ji-he.md)
     * [HashMap](java/ji-he/hashmap.md)
-  * [IO](java/io/README.md)
+  * [IO](java/io.md)
     * [BIO,NIO,AIO](java/io/bio-nio-aio.md)
   * [并发](java/bing-fa/README.md)
     * [线程状态与流转关系](java/bing-fa/xian-cheng-zhuang-tai-yu-liu-zhuan-guan-xi.md)
