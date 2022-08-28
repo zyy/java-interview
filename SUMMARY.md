@@ -4,7 +4,7 @@
   * [基础](java/ji-chu.md)
     * [强引用、弱引用、软引用、虚引用](java/ji-chu/qiang-yin-yong-ruo-yin-yong-ruan-yin-yong-xu-yin-yong.md)
     * [传递or引用传递](java/ji-chu/chuan-di-or-yin-yong-chuan-di.md)
-  * [集合](java/ji-he/README.md)
+  * [集合](java/ji-he.md)
     * [HashMap](java/ji-he/hashmap.md)
   * [IO](java/io.md)
   * [并发](java/bing-fa/README.md)
