@@ -18,6 +18,7 @@
     * [Volatile关键字](java/bing-fa/volatile-guan-jian-zi.md)
     * [Atomic类](java/bing-fa/atomic-lei.md)
     * [线程同步](java/bing-fa/xian-cheng-tong-bu.md)
+    * [线程通信](java/bing-fa/xian-cheng-tong-xin.md)
   * [JVM](java/jvm.md)
     * [JVM面试题](java/jvm/jvm-mian-shi-ti.md)
     * [JVM内存结构](java/jvm/jvm-nei-cun-jie-gou.md)
