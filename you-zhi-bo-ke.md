@@ -24,6 +24,10 @@ Java多线程
 八股文
 {% endembed %}
 
+{% embed url="https://github.com/0voice/interview_internal_reference" %}
+大厂面试
+{% endembed %}
+
 {% embed url="https://zachaxy.github.io/tags/JVM/" %}
 手写JVM
 {% endembed %}

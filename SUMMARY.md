@@ -1,8 +1,9 @@
 # Table of contents
 
 * [🇦🇽 Java](README.md)
-  * [基础](java/ji-chu/README.md)
+  * [基础](java/ji-chu.md)
     * [强引用、弱引用、软引用、虚引用](java/ji-chu/qiang-yin-yong-ruo-yin-yong-ruan-yin-yong-xu-yin-yong.md)
+    * [传递or引用传递](java/ji-chu/chuan-di-or-yin-yong-chuan-di.md)
   * [集合](java/ji-he.md)
   * [IO](java/io.md)
   * [并发](java/bing-fa/README.md)
@@ -77,6 +78,6 @@
   * [监控告警](gao-ke-yong/jian-kong-gao-jing.md)
 * [🇧🇲 解决方案](jie-jue-fang-an/README.md)
   * [超大数据量实时查询](jie-jue-fang-an/chao-da-shu-ju-liang-shi-shi-cha-xun.md)
-* [🇦🇫 优质博客](you-zhi-bo-ke.md)
 * [🇬🇶 设计模式](she-ji-mo-shi/README.md)
   * [访问者模式](she-ji-mo-shi/fang-wen-zhe-mo-shi.md)
+* [🇦🇫 优质博客](you-zhi-bo-ke.md)
