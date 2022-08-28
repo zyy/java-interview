@@ -69,6 +69,7 @@
     * [RocketMQ](zhong-jian-jian/rocketmq.md)
     * [MQ如何保证不丢消息](zhong-jian-jian/mq/mq-ru-he-bao-zheng-bu-diu-xiao-xi.md)
     * [MQ消息幂等](zhong-jian-jian/mq/mq-xiao-xi-mi-deng.md)
+    * [MQ高可用](zhong-jian-jian/mq/mq-gao-ke-yong.md)
   * [Zookeeper](zhong-jian-jian/zookeeper/README.md)
     * [Zookeeper选举](zhong-jian-jian/zookeeper/zookeeper-xuan-ju.md)
 * [🇦🇮 系统设计](xi-tong-she-ji/README.md)
