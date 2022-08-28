@@ -1,2 +1,2 @@
-# 🦤 ElasticSearch
+# ElasticSearch
 

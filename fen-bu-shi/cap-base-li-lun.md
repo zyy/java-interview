@@ -1,4 +1,4 @@
-# 🌵 CAP理论
+# CAP理论
 
 ### CAP理论 <a href="#cap-li-lun" id="cap-li-lun"></a>
 
@@ -10,7 +10,7 @@
 
 **CAP** 也就是 **Consistency（一致性）**、**Availability（可用性）**、**Partition Tolerance（分区容错性）** 这三个单词首字母组合。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -48,7 +48,7 @@ CAP 理论的提出者布鲁尔在提出 CAP 猜想的时候，并没有详细�
 
 注册中心负责服务地址的注册与查找，相当于目录服务，服务提供者和消费者只在启动时与注册中心交互，注册中心不转发请求，压力较小。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 常见的可以作为注册中心的组件有：ZooKeeper、Eureka、Nacos...。
 
