@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🇦🇽 Java](README.md)
-  * [基础](java/ji-chu.md)
+  * [基础](java/ji-chu/README.md)
+    * [强引用、弱引用、软引用、虚引用](java/ji-chu/qiang-yin-yong-ruo-yin-yong-ruan-yin-yong-xu-yin-yong.md)
   * [集合](java/ji-he.md)
   * [IO](java/io.md)
   * [并发](java/bing-fa/README.md)
