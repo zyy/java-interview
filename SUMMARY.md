@@ -14,6 +14,8 @@
     * [ThreadLocal](java/bing-fa/threadlocal.md)
     * [CountDownLatch](java/bing-fa/countdownlatch.md)
     * [CAS](java/bing-fa/cas.md)
+    * [Volatile关键字](java/bing-fa/volatile-guan-jian-zi.md)
+    * [Atomic类](java/bing-fa/atomic-lei.md)
   * [JVM](java/jvm.md)
     * [JVM面试题](java/jvm/jvm-mian-shi-ti.md)
     * [JVM内存结构](java/jvm/jvm-nei-cun-jie-gou.md)
