@@ -1,2 +1,2 @@
-# 🦆 Kafka
+# Kafka
 

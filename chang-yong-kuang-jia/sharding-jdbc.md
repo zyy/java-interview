@@ -1,2 +1,2 @@
-# 🐤 Sharding-JDBC
+# Sharding-JDBC
 
