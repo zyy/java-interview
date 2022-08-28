@@ -9,6 +9,7 @@
     * [线程池](java/bing-fa/xian-cheng-chi.md)
     * [AQS](java/bing-fa/aqs.md)
     * [ThreadLocal](java/bing-fa/threadlocal.md)
+    * [CountDownLatch](java/bing-fa/countdownlatch.md)
   * [JVM](java/jvm.md)
     * [JVM面试题](java/jvm/jvm-mian-shi-ti.md)
     * [JVM内存结构](java/jvm/jvm-nei-cun-jie-gou.md)
