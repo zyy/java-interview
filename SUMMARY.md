@@ -7,6 +7,7 @@
   * [并发](java/bing-fa/README.md)
     * [线程状态与流转关系](java/bing-fa/xian-cheng-zhuang-tai-yu-liu-zhuan-guan-xi.md)
     * [线程池](java/bing-fa/xian-cheng-chi.md)
+    * [AQS](java/bing-fa/aqs.md)
   * [JVM](java/jvm.md)
     * [JVM面试题](java/jvm/jvm-mian-shi-ti.md)
     * [JVM内存结构](java/jvm/jvm-nei-cun-jie-gou.md)
