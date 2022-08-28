@@ -1,4 +1,4 @@
-# CAP理论
+# 🌵 CAP理论
 
 ### CAP理论 <a href="#cap-li-lun" id="cap-li-lun"></a>
 
