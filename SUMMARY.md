@@ -7,6 +7,7 @@
     * [深拷贝与浅拷贝](java/ji-chu/shen-kao-bei-yu-qian-kao-bei.md)
     * [反射机制](java/ji-chu/fan-she-ji-zhi.md)
     * [泛型](java/ji-chu/fan-xing.md)
+    * [序列化和反序列化](java/ji-chu/xu-lie-hua-he-fan-xu-lie-hua.md)
   * [集合](java/ji-he.md)
     * [HashMap](java/ji-he/hashmap.md)
   * [IO](java/io.md)
