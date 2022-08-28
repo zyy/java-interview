@@ -29,6 +29,7 @@
     * [MySQL-binlog、redo log、undo log](shu-ju-ku/mysql/mysql-binlog-redo-log-undo-log.md)
   * [Redis](shu-ju-ku/redis.md)
     * [Redis-5中基本数据类型](shu-ju-ku/redis/redis5-zhong-ji-ben-shu-ju-lei-xing.md)
+    * [Redis-RDB和AOF](shu-ju-ku/redis/redisrdb-he-aof.md)
   * [MongoDB](shu-ju-ku/mongodb.md)
 * [🇦🇸 开发工具](kai-fa-gong-ju/README.md)
   * [Git](kai-fa-gong-ju/git.md)
