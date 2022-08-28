@@ -45,6 +45,7 @@
 * [🇦🇴 中间件](zhong-jian-jian/README.md)
   * [ElasticSearch](zhong-jian-jian/elasticsearch.md)
     * [ES-倒排索引](zhong-jian-jian/elasticsearch/es-dao-pai-suo-yin.md)
+    * [ES-拼写纠错](zhong-jian-jian/elasticsearch/es-pin-xie-jiu-cuo.md)
   * [MQ](zhong-jian-jian/mq/README.md)
     * [Kafka](zhong-jian-jian/kafka.md)
     * [RocketMQ](zhong-jian-jian/rocketmq.md)
