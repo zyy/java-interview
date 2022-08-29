@@ -43,6 +43,7 @@
     * [Top K](ji-suan-ji-ji-chu/suan-fa/top-k.md)
     * [两个栈实现队列](ji-suan-ji-ji-chu/suan-fa/liang-ge-zhan-shi-xian-dui-lie.md)
     * [两数之和](ji-suan-ji-ji-chu/suan-fa/liang-shu-zhi-he.md)
+    * [Y型链表](ji-suan-ji-ji-chu/suan-fa/y-xing-lian-biao.md)
 * [🇩🇿 数据库](shu-ju-ku/README.md)
   * [基础](shu-ju-ku/ji-chu.md)
   * [MySQL](shu-ju-ku/mysql.md)
