@@ -45,6 +45,7 @@
     * [两数之和](ji-suan-ji-ji-chu/suan-fa/liang-shu-zhi-he.md)
     * [Y型链表](ji-suan-ji-ji-chu/suan-fa/y-xing-lian-biao.md)
     * [链表有环](ji-suan-ji-ji-chu/suan-fa/lian-biao-you-huan.md)
+    * [链表反转](ji-suan-ji-ji-chu/suan-fa/lian-biao-fan-zhuan.md)
 * [🇩🇿 数据库](shu-ju-ku/README.md)
   * [基础](shu-ju-ku/ji-chu.md)
   * [MySQL](shu-ju-ku/mysql.md)
