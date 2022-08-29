@@ -41,6 +41,7 @@
     * [红包算法](ji-suan-ji-ji-chu/suan-fa/hong-bao-suan-fa.md)
     * [二叉树的层次遍历](ji-suan-ji-ji-chu/suan-fa/er-cha-shu-de-ceng-ci-bian-li.md)
     * [Top K](ji-suan-ji-ji-chu/suan-fa/top-k.md)
+    * [两个栈实现队列](ji-suan-ji-ji-chu/suan-fa/liang-ge-zhan-shi-xian-dui-lie.md)
 * [🇩🇿 数据库](shu-ju-ku/README.md)
   * [基础](shu-ju-ku/ji-chu.md)
   * [MySQL](shu-ju-ku/mysql.md)
