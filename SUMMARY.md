@@ -61,6 +61,7 @@
     * [MySQL-性能优化](shu-ju-ku/mysql/mysql-xing-neng-you-hua.md)
     * [MySQL-binlog、redo log、undo log](shu-ju-ku/mysql/mysql-binlog-redo-log-undo-log.md)
     * [MySQL-索引最左匹配](shu-ju-ku/mysql/mysql-suo-yin-zui-zuo-pi-pei.md)
+    * [MySQL-Explain](shu-ju-ku/mysql/mysql-explain.md)
   * [Redis](shu-ju-ku/redis.md)
     * [Redis-5中基本数据类型](shu-ju-ku/redis/redis5-zhong-ji-ben-shu-ju-lei-xing.md)
     * [Redis-RDB和AOF](shu-ju-ku/redis/redisrdb-he-aof.md)
