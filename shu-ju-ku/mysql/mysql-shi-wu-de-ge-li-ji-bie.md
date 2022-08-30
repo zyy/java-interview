@@ -1,5 +1,9 @@
 # MySQL-事务的隔离级别
 
+## 优质博客：
+
+{% embed url="https://www.cnblogs.com/huanongying/p/7021555.html" %}
+
 ## 实验数据准备
 
 ```
