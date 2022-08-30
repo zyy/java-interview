@@ -49,6 +49,7 @@
     * [阿拉伯数字转中文](ji-suan-ji-ji-chu/suan-fa/a-la-bo-shu-zi-zhuan-zhong-wen.md)
     * [多线程轮流打印1-100](ji-suan-ji-ji-chu/suan-fa/duo-xian-cheng-lun-liu-da-yin-1100.md)
     * [一个SQL查询省市区](ji-suan-ji-ji-chu/suan-fa/yi-ge-sql-cha-xun-sheng-shi-qu.md)
+    * [100w+Excel数据导入数据库](ji-suan-ji-ji-chu/suan-fa/100w+excel-shu-ju-dao-ru-shu-ju-ku.md)
 * [🇩🇿 数据库](shu-ju-ku/README.md)
   * [基础](shu-ju-ku/ji-chu.md)
   * [MySQL](shu-ju-ku/mysql.md)
