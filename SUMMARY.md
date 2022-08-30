@@ -30,6 +30,7 @@
     * [GC策略](java/jvm/gc-cms-g1-zgc.md)
     * [GC-Roots](java/jvm/gc-roots.md)
     * [8种OOM](java/jvm/8-zhong-oom.md)
+    * [JVM性能调优](java/jvm/jvm-xing-neng-tiao-you.md)
 * [🇦🇱 计算机基础](ji-suan-ji-ji-chu/README.md)
   * [网络](ji-suan-ji-ji-chu/wang-luo.md)
     * [TCP/IP协议](ji-suan-ji-ji-chu/wang-luo/tcpip-xie-yi.md)
