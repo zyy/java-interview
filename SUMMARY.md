@@ -65,6 +65,7 @@
     * [MySQL-索引最左匹配](shu-ju-ku/mysql/mysql-suo-yin-zui-zuo-pi-pei.md)
     * [MySQL-Explain](shu-ju-ku/mysql/mysql-explain.md)
     * [MySQL-优化](shu-ju-ku/mysql/mysql-you-hua.md)
+    * [MySQL-分表分库](shu-ju-ku/mysql/mysql-fen-biao-fen-ku.md)
   * [Redis](shu-ju-ku/redis.md)
     * [Redis-5中基本数据类型](shu-ju-ku/redis/redis5-zhong-ji-ben-shu-ju-lei-xing.md)
     * [Redis-RDB和AOF](shu-ju-ku/redis/redisrdb-he-aof.md)
