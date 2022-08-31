@@ -118,6 +118,7 @@
   * [监控告警](gao-ke-yong/jian-kong-gao-jing.md)
 * [🇧🇲 解决方案](jie-jue-fang-an/README.md)
   * [超大数据量实时查询](jie-jue-fang-an/chao-da-shu-ju-liang-shi-shi-cha-xun.md)
+  * [热点账户](jie-jue-fang-an/re-dian-zhang-hu.md)
 * [🇬🇶 设计模式](she-ji-mo-shi/README.md)
   * [访问者模式](she-ji-mo-shi/fang-wen-zhe-mo-shi.md)
 * [🇦🇫 优质博客](you-zhi-bo-ke.md)
