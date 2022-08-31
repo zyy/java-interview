@@ -119,6 +119,7 @@
 * [🇧🇲 解决方案](jie-jue-fang-an/README.md)
   * [超大数据量实时查询](jie-jue-fang-an/chao-da-shu-ju-liang-shi-shi-cha-xun.md)
   * [热点账户](jie-jue-fang-an/re-dian-zhang-hu.md)
+  * [电商系统全貌](jie-jue-fang-an/dian-shang-xi-tong-quan-mao.md)
 * [🇬🇶 设计模式](she-ji-mo-shi/README.md)
   * [访问者模式](she-ji-mo-shi/fang-wen-zhe-mo-shi.md)
 * [🇦🇫 优质博客](you-zhi-bo-ke.md)
