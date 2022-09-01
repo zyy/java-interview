@@ -112,7 +112,7 @@
 * [🇦🇷 高可用](gao-ke-yong/README.md)
   * [冗余](gao-ke-yong/rong-yu.md)
   * [限流](gao-ke-yong/xian-liu.md)
-  * [降级](gao-ke-yong/jiang-ji.md)
+  * [熔断&降级](gao-ke-yong/rong-duan-jiang-ji.md)
   * [熔断](gao-ke-yong/rong-duan.md)
   * [超时&重试](gao-ke-yong/chao-shi-zhong-shi.md)
   * [监控告警](gao-ke-yong/jian-kong-gao-jing.md)
