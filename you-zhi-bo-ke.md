@@ -1,6 +1,12 @@
 # 🇦🇫 优质博客
 
+{% embed url="https://www.code-nav.cn/" %}
+编程导航
+{% endembed %}
+
 {% embed url="https://pdai.tech/" %}
+全栈知识
+{% endembed %}
 
 {% embed url="https://juejin.cn/user/2084329777035246" %}
 

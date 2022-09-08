@@ -66,7 +66,7 @@
     * [MySQL-Explain](shu-ju-ku/mysql/mysql-explain.md)
     * [MySQL-优化](shu-ju-ku/mysql/mysql-you-hua.md)
     * [MySQL-分表分库](shu-ju-ku/mysql/mysql-fen-biao-fen-ku.md)
-    * [MySQL-聚簇索引与非聚簇索引](shu-ju-ku/mysql/mysql-ju-cu-suo-yin-yu-fei-ju-cu-suo-yin.md)
+    * [MySQL-聚簇索引与非聚簇索引](shu-ju-ku/mysql/ju-cu-suo-yin-yu-fei-ju-cu-suo-yin.md)
     * [MySQL-自增ID相关](shu-ju-ku/mysql/mysql-zi-zeng-id-xiang-guan.md)
   * [Redis](shu-ju-ku/redis.md)
     * [Redis-5中基本数据类型](shu-ju-ku/redis/redis5-zhong-ji-ben-shu-ju-lei-xing.md)
